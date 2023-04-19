@@ -5,7 +5,6 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.rememberNavController
-import com.example.filmsinfo.navigation.Screens
 import com.example.filmsinfo.navigation.SetupNavHost
 import com.example.filmsinfo.ui.theme.FilmsInfoTheme
 import dagger.hilt.android.AndroidEntryPoint
